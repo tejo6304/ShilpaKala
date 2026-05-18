@@ -1,3 +1,7 @@
+<img width="590" height="1280" alt="1" src="https://github.com/user-attachments/assets/d100a546-6c6e-40c4-b7db-5b081de2a388" />
+<img width="590" height="1280" alt="2" src="https://github.com/user-attachments/assets/f696cb97-159f-4dff-b53a-94b66da1ff6a" />
+<img width="590" height="1280" alt="3" src="https://github.com/user-attachments/assets/d3611e3b-1f03-462a-850f-ca31c0d78728" />
+<img width="590" height="1280" alt="4" src="https://github.com/user-attachments/assets/0ced8974-779a-4cda-b4de-e58e1bceea0f" />
 # 🪵 Shilpa-Kala — Digital Portfolio Assistant for Indian Artisans
 
 > *"Your Craft. Your Brand." | "ನಿಮ್ಮ ಕಲೆ. ನಿಮ್ಮ ಬ್ರ್ಯಾಂಡ್."*
